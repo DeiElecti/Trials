@@ -23,3 +23,27 @@ You can view the live website at: [https://yourusername.github.io/biblical-trial
 To run this website locally:
 
 1. Clone this repository:
+2. Open the `index.html` file in your web browser.
+
+## Contributing
+
+Contributions to improve the content or design are welcome. Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Create a new Pull Request.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## Contact
+
+If you have any questions or suggestions, please open an issue in this repository.
+
+---
+
+We hope this website serves as a valuable resource for studying and discussing biblical trials and their relevance to our lives today.
